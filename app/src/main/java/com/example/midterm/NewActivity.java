@@ -48,3 +48,4 @@ public class NewActivity extends AppCompatActivity {
         }
     }
 }
+
